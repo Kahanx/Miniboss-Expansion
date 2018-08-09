@@ -1,3 +1,0 @@
-author = Kahan
-version = 0.5
-displayName = Miniboss Expansion
