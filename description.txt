@@ -1,0 +1,25 @@
+Miniboss Expansion is a mod that expands the contents of terraria. 
+
+
+Minibosses:
+
+As for now it focuses on:
+- Ice Golem
+- Sand Elemental
+- Paladin
+- Wyvern
+
+All of those minibosses drop their respective trophy and mask.
+
+In expert mode they drop emblems, which are materials for expert miniboss treasure bags.
+
+These treasure bags include an expert exclusive item.
+
+
+Others:
+
+After beating WoF Merchant (in Expert mode) sells empty bags, which are a material for the expert miniboss treasure bags.
+
+WoF now drops a hint (in Expert mode), telling the player about the treasure bags.
+
+Minibosses have 20% change of dropping a pet. Why is this in others, you ask. Well these pets are very WIP.
